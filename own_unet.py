@@ -16,9 +16,7 @@ from cvnn.layers import complex_input, ComplexConv2D, ComplexDropout, \
     ComplexUpSampling2D, ComplexConv2DTranspose, ComplexAvgPooling2D, ComplexPolarAvgPooling2D, ComplexMaxPooling2D
 from cvnn.activations import cart_softmax, cart_relu
 from cvnn.initializers import ComplexHeNormal
-
-IMG_HEIGHT = None  # 128
-IMG_WIDTH = None  # 128
+b
 
 DROPOUT_DEFAULT = {
     "downsampling": None,
