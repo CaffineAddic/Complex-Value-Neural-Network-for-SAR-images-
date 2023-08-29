@@ -252,7 +252,7 @@ plt.show()
 # # x = image_generator.next()
 # # y = mask_generator.next()
 # # for i in range(0,1):
-# #     image = x[i]
+# #     image = x[i]crop01
 # #     mask = y[i]
 # #     plt.subplot(1,2,1)
 # #     plt.imshow(image[:,:,0], cmap='gray')
